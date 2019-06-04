@@ -85,8 +85,6 @@ const getButtonColors = async ( url ) => {
     //let url = 'https://www.cnn.com';
     let url = 'https://cbsnews.com';
 	//let url = 'https://oregonstate.edu';
-    //let url = 'https://bestbuy.com';
-    //let url = 'https://www.milestoneretirement.com'
 
     let beginGetData = Date.now();
 
