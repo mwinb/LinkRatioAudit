@@ -1,0 +1,3 @@
+
+#!/bin/bash
+lighthouse --chrome-flags="--no-sandbox --headless --disable-gpu" --config-path=auditconfig.js --output=json --output-path=report.json https://www.milestoneretirement.com > /dev/null
