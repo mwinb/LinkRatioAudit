@@ -4,7 +4,7 @@
 
 Lighthouse Audit that finds a link, then moves up DOM to find background and   
 tests against the color contrast accessability standards. Created with the guidance  
-of Kyle Rose, Cody Swarts, and G5. 
+of G5. 
 
 Clone repository to local machine.
 
